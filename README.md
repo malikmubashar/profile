@@ -1,6 +1,6 @@
 # My Profile
 
-Welcome to my GitHub repository, where you can access my personal website at [malikmubashar.github.io/profile](https://malikmubashar.github.io/profile/).
+Welcome to my GitHub repository, where you can access my personal(demo) website at [malikmubashar.github.io/profile](https://malikmubashar.github.io/profile/).
 
 ## About
 
